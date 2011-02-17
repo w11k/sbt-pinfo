@@ -1,0 +1,31 @@
+# SBT
+target
+lib_managed
+src_managed
+boot
+test/project/plugins/project/
+test/src
+
+# Maven
+target
+
+# Mac
+.DS_Store
+
+# Eclipse
+.classpath
+.launch
+.metadata
+.project
+.scala_dependencies
+.settings
+
+# IntelliJ
+.idea
+*.iml
+*.ipr
+*.iws
+out
+
+# TextMate
+*.tmproj
